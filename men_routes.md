@@ -75,12 +75,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mike Grey|8c|True north||||
 |Rob Napier|8c|Bat Route||||
 |Sam Whittaker|8c|Bat Route||||
-|Aidrian Baxter|8c|Kalandraka||||
+|Adrian Baxter|8c|Kalandraka||||
 |Ally Smith|8c (x)|The Pirate||||
 |Dave Redpath|8c|Devastation Generation||||
 |Nic Duboust|8c|Bat Route||||
-|James Turnbull|8c|Bat Route||||
-|Cailean Harker|8c|The Joker||||
+|James Turnbull|8c|Bat Route|||2016|
+|Cailean Harker|8c|Joker|||2018|
 |Mark 'Zippy' Pretty|8c|Make it Funky|||1993|
 |Rupert Davies|8c|Make it Funky||||
 |Richard Heap|8c|Make it Funky||||
@@ -93,10 +93,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Char Williams|8c|Mecca Ext||||
 |Max Milne|8c|Dracula True Finish||||
 |Ally Coull|8c|Magnum Opus|||2017|
-|Jacob Cook|8c|Revival||||
-|Eddie Barbour|8c|China Beach||||
+|Jacob Cook|8c|Revival|||2017|
+|Eddie Barbour|8c|China Beach|||2016|
 |Aidan Roberts|8c|Freakshow||Third ascent.|2015|
-|Ian MacDoanld|8c|T1 Full Equip||||
-|Charlie Woodburn|8c|Bat Route||||
+|Ian MacDonald|8c|T1 Full Equip||||
+|Charlie Woodburn|8c|Bat Route|||2016|
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
 |Alexis Perry|8c|The Death Star|?|The line is eliminate and the grade depends quite a bit on the holds and sequence used.||
